@@ -1,2 +1,2 @@
-# Mediapipe_Tutorials
-:smiley: Mediapipe Tutorials using python!!! 
+# :smiley: Mediapipe_Tutorials
+Mediapipe Tutorials using python!!! 
